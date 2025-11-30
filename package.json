@@ -1,0 +1,30 @@
+{
+  "name": "dark-orange",
+  "displayName": "Dark Orange",
+  "description": "",
+  "version": "0.1.0",
+  "publisher": "ihalaij1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ihalaij1/vscode-dark-orange-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-orange-color-theme.json"
+      }
+    ]
+  }
+  ,
+  "scripts": {
+    "package": "vsce package"
+  }
+}
