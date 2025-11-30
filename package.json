@@ -1,6 +1,6 @@
 {
-  "name": "dark-orange",
-  "displayName": "Dark Orange",
+  "name": "dark-orange-flat",
+  "displayName": "Dark Orange Flat",
   "description": "",
   "version": "0.1.0",
   "publisher": "ihalaij1",
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Orange",
+        "label": "Dark Orange Flat",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-orange-color-theme.json"
       }
