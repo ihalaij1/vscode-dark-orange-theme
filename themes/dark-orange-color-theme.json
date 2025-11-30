@@ -45,12 +45,12 @@
     "editor.focusedStackFrameHighlightBackground": "#b1b01124",
     "editor.foreground": "#dddddd",
     "editor.hoverHighlightBackground": "#ffffff20",
-    "editor.inactiveSelectionBackground": "#464646",
+    "editor.inactiveSelectionBackground": "#ffffff20",
     "editor.lineHighlightBackground": "#292929",
     "editor.lineHighlightBorder": "#292929",
     "editor.rangeHighlightBackground": "#292929",
     "editor.rangeHighlightBorder": "#292929",
-    "editor.selectionBackground": "#464646",
+    "editor.selectionBackground": "#ffffff20",
     "editor.selectionForeground": "#dddddd",
     "editor.selectionHighlightBackground": "#ffffff10",
     "editor.selectionHighlightBorder": "#00000000",
@@ -417,7 +417,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
@@ -425,7 +425,7 @@
       "name": "Class name",
       "scope": "entity.name.type, entity.name.class",
       "settings": {
-        "fontStyle": "underline",
+        "fontStyle": "",
         "foreground": "#A6E22E"
       }
     },
@@ -433,7 +433,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "fontStyle": "italic underline",
+        "fontStyle": "",
         "foreground": "#A6E22E"
       }
     },
@@ -449,7 +449,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#fe8019"
       }
     },
@@ -489,7 +489,7 @@
       "name": "Library class/type",
       "scope": "support.type, support.class",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
